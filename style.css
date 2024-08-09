@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: url('header-bg.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+#about, #contact {
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+}
